@@ -1,0 +1,60 @@
+{
+  "files": {
+    "Trabalho1/corretor.c": [
+      {
+        "id": "d64d6ab0-ee43-45ef-839a-16a53570b8db",
+        "line": 287,
+        "version": 124,
+        "index": 7566
+      },
+      {
+        "id": "522c6e28-6d38-45c2-949a-ea7a4a4f5c0c",
+        "line": 288,
+        "version": 124,
+        "index": 7609
+      },
+      {
+        "id": "81a3d649-aca7-469b-a4c9-381fba008b8f",
+        "line": 289,
+        "version": 124,
+        "index": 7648
+      },
+      {
+        "id": "15d0aefa-ce6b-4b70-b7b1-2cfdf3cb84c7",
+        "line": 290,
+        "version": 124,
+        "index": 7688
+      },
+      {
+        "id": "73120b63-da80-4f76-819f-3f9b49a87f98",
+        "line": 291,
+        "version": 124,
+        "index": 7725
+      },
+      {
+        "id": "4ad1e4e6-8b0f-4ea5-8258-97e6ef0a6084",
+        "line": 292,
+        "version": 124,
+        "index": 7763
+      },
+      {
+        "id": "ff4ae08d-9bff-4757-8bde-8027f06fa22d",
+        "line": 293,
+        "version": 124,
+        "index": 7806
+      },
+      {
+        "id": "050e8969-7e2d-41d3-aa9d-b13209ffd3dd",
+        "line": 294,
+        "version": 124,
+        "index": 7843
+      },
+      {
+        "id": "783442eb-4e97-4b9d-88f1-a4389d1e90a3",
+        "line": 295,
+        "version": 124,
+        "index": 7881
+      }
+    ]
+  }
+}
